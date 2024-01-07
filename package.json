@@ -8,9 +8,6 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "phaser": "^3.70.0"
-  },
   "devDependencies": {
     "http-server": "^14.1.1"
   }
